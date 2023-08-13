@@ -1,6 +1,7 @@
 # patterns
 
 1st pattern :
+
 ****
 ****
 ****
@@ -68,7 +69,7 @@ DDDD
   ***
  *****
 *******
-
+#
 
 11th pattern:
    1
